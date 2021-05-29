@@ -8,9 +8,9 @@
 
 
 ### Github stats
-[![Ali Alrabeei's github stats](https://github-readme-stats.vercel.app/api?username=ali-commits&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali Alrabeei's github stats](https://github-readme-stats.vercel.app/api?username=ali-commits&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-commits&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-commits&theme=react&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 <details>
