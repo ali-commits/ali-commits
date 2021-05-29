@@ -14,6 +14,6 @@
 
 ### :zap: Recent project</summary>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FingersCounter&theme=react)](https://github.com/ali-commits/ML-FingersCounter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FaceMaskDetection&theme=react)](https://github.com/ali-commits/ML-FingersCounter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FaceMaskDetection&theme=react)](https://github.com/ali-commits/ML-FaceMaskDetection)
 
 
