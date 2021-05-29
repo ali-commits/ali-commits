@@ -12,10 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-commits&theme=react&layout=compact&show_icons=true)](https://github.com/ali-commits)
 
+### :zap: Recent project</summary>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FingersCounter)](https://github.com/ali-commits/ML-FingersCounter)
 
-<details>
-  <summary>:zap: Recent project</summary>
-    </br>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FingersCounter)](https://github.com/ali-commits/ML-FingersCounter)
-</details>
 
