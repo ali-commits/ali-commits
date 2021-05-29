@@ -12,11 +12,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-commits&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
 <details>
   <summary>:zap: Recent project</summary>
     </br>
     <img alt="ali-commits/ML-FingersCounter" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FingersCounter=react"/>
-</details>
+</details> -->
 
-<!--  -->
