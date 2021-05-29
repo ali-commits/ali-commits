@@ -16,7 +16,7 @@
 <details>
   <summary>:zap: Recent project</summary>
     </br>
-    <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=GB-emu&theme=react"/>
+    <img alt="ali-commits/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=GB-emu&theme=react"/>
 </details>
 
 <!--  -->
