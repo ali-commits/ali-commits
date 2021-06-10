@@ -39,10 +39,10 @@
 ### Github stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-commits&theme=react&show_icons=true" />
-</p>
-<p">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-commits&theme=react&hide=HTML&langs_count=10&layout=compact" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-commits&theme=react&show_icons=true" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-commits&theme=react" alt="ali-commits" /></p>
 
@@ -54,4 +54,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FingersCounter&theme=react)](https://github.com/ali-commits/ML-FingersCounter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-commits&repo=ML-FaceMaskDetection&theme=react)](https://github.com/ali-commits/ML-FaceMaskDetection)
-
