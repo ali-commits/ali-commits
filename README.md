@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I'm a Data Scince Master Student, Software Enigneer, Developer, and FOSS Activist!!</h3>
+<h3 align="center">I'm a Data Scince Master Student, Software Enigneer, Developer, and FOSS supporter!!</h3>
 
 <!-- ## I'm a Data Scince Master Student, Software Enigneer, Developer, and FOSS Activist!! -->
 
