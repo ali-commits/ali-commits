@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I'm a Data Scince Masters Student, Software Enigneer, Developer, and FOSS Supporter!!</h3>
+
 
 <!-- ## I'm a Data Scince Master Student, Software Enigneer, Developer, and FOSS Activist!! -->
 
@@ -9,14 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-commits&theme=nord&no-bg=true" alt="ali-commits" /></a> </p>
 
-
-
-- 🔭 I’m currently working on **Ensemble Machine Learning Classification**
-
-- 🌱 I’m currently learning **Image Processing**
-
-- 💬 Ask me about **Data Science, Machine Learning and Python programming**
-- 🏆 My goal this year is to contribute more the open source community.
 
 
 <h3 align="left">Connect with me:</h3>
